@@ -1,5 +1,3 @@
-package hw1;
-
 import java.awt.Color;
 
 /**
